@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exams App</string>
+    <string name="normal">Normal</string>
+    <string name="blur">Blur</string>
+    <string name="clear">Clear</string>
+    <string name="homePage">home Page</string>
+    <string name="RetakeExam">Retake Exam</string>
+    <string name="RoughWork">Rough Work</string>
+    <string name="Quiz">Back to Quiz</string>
+
+</resources>

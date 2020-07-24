@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/re"
+        android:title="@string/RetakeExam"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/rw"
+        android:title="@string/RoughWork"
+        app:showAsAction="never"
+         />
+
+    <item
+        android:id="@+id/calculator"
+        android:title="Calculator"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/main"
+        android:title="@string/homePage"
+        app:showAsAction="never"/>
+
+
+</menu>
